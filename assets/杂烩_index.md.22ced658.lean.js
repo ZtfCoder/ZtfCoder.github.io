@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.1baa841b.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"杂烩/index.md","filePath":"杂烩/index.md","lastUpdated":1713749248000}'),n={name:"杂烩/index.md"};function r(o,s,d,c,i,p){return t(),a("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
