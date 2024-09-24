@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Cq-rJsvL.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/杂烩/index.md","filePath":"src/杂烩/index.md","lastUpdated":1701252050000}'),r={name:"src/杂烩/index.md"};function s(n,c,o,d,i,p){return a(),t("div")}const f=e(r,[["render",s]]);export{m as __pageData,f as default};
